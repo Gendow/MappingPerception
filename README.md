@@ -14,4 +14,12 @@ download the data by copying the link to dropbox in the main script and pasting 
 3. The values of the listed rasters is summed up using a mosaic function.
 4. The newly created mosaic raster is saved to the disk and deleted from the memory
 
+#Map function
+1. Takes the path to the location of the data as argument.
+2. The input data are mosaic rasters created with the Rasterize function.
+3. Rasters are converted to polygons and ploted in Google Maps.
+4. Maps are saved as .html file
 
+#Map app
+1. Takes mosaic rasters and .html maps to construct a web app.
+2. The app allows visualize results per question.

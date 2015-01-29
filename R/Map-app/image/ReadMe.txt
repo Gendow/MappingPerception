@@ -1,0 +1,1 @@
+In this folder the html files are saved which are used for plotting results in googlemaps

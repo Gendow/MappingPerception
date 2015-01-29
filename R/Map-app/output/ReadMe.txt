@@ -1,0 +1,1 @@
+In this folder the mosaic rasters are saved

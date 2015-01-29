@@ -74,6 +74,8 @@ Heat maps for all the answers per question
 
 An interactive map plotting all heat maps in googlemaps
 
+[Mapping Perception App](https://sammartindelc.shinyapps.io/Map-app/)
+
 Statics didn't work out
 
 Conclusion
