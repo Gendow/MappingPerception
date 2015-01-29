@@ -1,0 +1,25 @@
+.notation {
+	font-color: black;
+}
+
+.text {
+ 	color: #125699;
+
+}
+
+.reveal section del{
+	color: #125699;
+}
+
+a:link {
+	color: crimson;
+}
+
+a:hover {
+	color: #FF00FF;
+}
+
+.exclaim .reveal .state-background {
+  background: black;
+} 
+
