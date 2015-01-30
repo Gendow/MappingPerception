@@ -25,7 +25,6 @@ class: text
 
 What is 12map?
 ========================================================
-class: text
 It's an app, accessible via mobile devices
 
 Answer questions about your living environment by drawing polygons
@@ -72,9 +71,7 @@ class: text
 
 Heat maps for all the answers per question
 
-An interactive map plotting all heat maps in googlemaps
-
-[Mapping Perception App](https://sammartindelc.shinyapps.io/Map-app/)
+[The mapping Perception App](https://sammartindelc.shinyapps.io/Map-app/)
 
 Statics didn't work out
 
@@ -98,7 +95,7 @@ class: text
 
 - **Asking google the right questions**
 
-- **Amazigness of Github**, working with branches and using the terminal
+- **Amazingness of Github**, working with branches and using the terminal
 
 - **Splitting up scripting work**, but combining scripts is a challenge
 
@@ -110,4 +107,4 @@ class: text
 =
 
 
-Join us on [Github](https://www.github.com/Gendow/FinalAssignment.git)  
+Join us on [Github](https://www.github.com/Gendow/MappingPerception.git)  
